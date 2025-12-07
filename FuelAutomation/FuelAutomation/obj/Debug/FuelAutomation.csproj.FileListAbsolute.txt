@@ -1,0 +1,11 @@
+C:\Users\KUTLU\source\repos\FuelAutomation\FuelAutomation\bin\Debug\FuelAutomation.exe.config
+C:\Users\KUTLU\source\repos\FuelAutomation\FuelAutomation\bin\Debug\FuelAutomation.exe
+C:\Users\KUTLU\source\repos\FuelAutomation\FuelAutomation\bin\Debug\FuelAutomation.pdb
+C:\Users\KUTLU\source\repos\FuelAutomation\FuelAutomation\obj\Debug\FuelAutomation.csproj.AssemblyReference.cache
+C:\Users\KUTLU\source\repos\FuelAutomation\FuelAutomation\obj\Debug\FuelAutomation.Form1.resources
+C:\Users\KUTLU\source\repos\FuelAutomation\FuelAutomation\obj\Debug\FuelAutomation.Properties.Resources.resources
+C:\Users\KUTLU\source\repos\FuelAutomation\FuelAutomation\obj\Debug\FuelAutomation.csproj.GenerateResource.cache
+C:\Users\KUTLU\source\repos\FuelAutomation\FuelAutomation\obj\Debug\FuelAutomation.csproj.CoreCompileInputs.cache
+C:\Users\KUTLU\source\repos\FuelAutomation\FuelAutomation\obj\Debug\FuelAutomation.exe
+C:\Users\KUTLU\source\repos\FuelAutomation\FuelAutomation\obj\Debug\FuelAutomation.pdb
+C:\Users\KUTLU\source\repos\FuelAutomation\FuelAutomation\obj\Debug\FuelAutomation.exe.config
